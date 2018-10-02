@@ -9,7 +9,7 @@
 
 using namespace std;
 
-const string INSULTS_SOURCE("InsultsSource.txt");
+const string INSULTS_SOURCE("src/InsultsSource.txt");
 const int maxNumOfInsults(10000);
 
 class FileException {
